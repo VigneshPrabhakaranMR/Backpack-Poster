@@ -1,30 +1,27 @@
-# 🏀 Basketball Mockup – 3D Illustration
+# 👜 Baggy – Backpack Fashion UI  
 
-## 📌 Overview
-This repository contains a **3D-rendered basketball-themed mockup** featuring a floating laptop displaying a **sports UI design**. The screen highlights a basketball player with the name **Nikola Jokić** and the nickname **"The Joker"**, set against a vibrant yellow background with basketball-related elements.
+## 📌 Overview  
+This is a **modern and stylish UI design** for an e-commerce website specializing in **backpacks and fashion bags**. The layout is clean, minimalist, and visually appealing, with a soft pastel color scheme to enhance user experience.  
 
-## 🎨 Design Details
-- **Theme:** Basketball, Sports, 3D Illustration
-- **Elements:** Floating laptop, geometric shapes, 3D-rendered objects
-- **Color Scheme:** Blue gradient background with yellow sports UI
+## 🎨 Design Details  
+- **Theme:** Fashion, Accessories, E-commerce  
+- **Elements:** Hero banner, product showcases, call-to-action buttons  
+- **Typography:** Bold, elegant, and fashion-oriented  
 
-## 🛠️ Tools Used
-- **Blender** – 3D modeling & rendering
-- **Photoshop** – UI design & enhancements
-- **Figma** – Layout and prototyping
+## 🛠️ Tools Used  
+- **Figma** – UI/UX Design  
+- **Photoshop** – Image Editing  
 
-## 📂 File Information
-- **Filename:** `BasketBall_Mockup.png`
-- **Format:** PNG
-- **Resolution:** High-quality 3D render
+## 🚀 Features  
+- **Hero Section:** Large, interactive imagery with a focus on fashion appeal  
+- **Promotional Banners:** “Massive Collections” and “Buy One, Get One” deals  
+- **Search & Navigation:** Intuitive UI for easy browsing  
 
-## 🚀 Usage
-Feel free to use this mockup for:
-- **Sports branding**
-- **UI/UX inspiration**
-- **Digital artwork projects**
-- **Portfolio showcase**
+## 📂 File Information  
+- **Filename:** `1.jpg`  
+- **Format:** JPG  
+- **Resolution:** High-quality UI design preview  
 
-## 📬 Contact
+## 📬 Contact  
 For collaborations or inquiries, feel free to reach out! 😊
 
